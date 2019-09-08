@@ -1,2 +1,5 @@
-# proverbs
-A git repository for some interesting proverbs.
+# Proverbs
+
+1. God hides in the details.
+
+
